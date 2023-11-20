@@ -1,0 +1,5 @@
+Condition	Control
+Late_MOLM14_FGF2	Parental_MOLM14
+Early_MOLM14_FGF2	Parental_MOLM14
+Late_MOLM14_FLT3	Parental_MOLM14
+Early_MOLM14_FLT3	Parental_MOLM14
